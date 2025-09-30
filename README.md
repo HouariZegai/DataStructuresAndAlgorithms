@@ -10,6 +10,9 @@
   </a>
 </p>
 
+## ⚠️ Important
+This repository is no longer maintained. Please use [playground](https://github.com/HouariZegai/playground) repository instead.
+
 ## Data Structures
 * [Array](src/main/java/com/houarizegai/datastructure/array/dynamic)
 * [ArrayList (Aynamic Array)](src/main/java/com/houarizegai/datastructure/array/dynamic)
